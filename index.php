@@ -13,7 +13,7 @@
 <body style="background-color:rgb(220,222,224);">
     <?php include 'nav.php'; ?>
     <div class="container">
-        <div class="card mt-5">
+        <div class="card mt-5 mb-5">
             <div class="card-header text-center">
             <a href="tambah.php" class="btn btn-primary text-center" style="background-color:rgb(32, 38, 50);">Tambah Data</a>
             </div>
