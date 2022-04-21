@@ -31,7 +31,8 @@
         </div>
               
                 <h3 class="text-center"><b>Daftar Data</b></h3>
-                <table class=" table-responsive table-bordered table-striped">
+                <div class="table-responsive">
+                <table class=" table table-bordered table-striped">
                     <thead class="text-center">
                         <tr>
                             <td><b>No</b></td>
@@ -60,6 +61,7 @@
                       
                     </tbody>
                 </table>
+                 </div>
                 <b>INFORMASI</b>
                 <p>Jumlah Data Sekarang  = <?php echo $jumlah; ?></p>
             </div>
