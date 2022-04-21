@@ -31,7 +31,7 @@
         </div>
               
                 <h3 class="text-center"><b>Daftar Data</b></h3>
-                <table class="table table-bordered table-striped table-responsive">
+                <table class=" table-responsive table-bordered table-striped">
                     <thead class="text-center">
                         <tr>
                             <td><b>No</b></td>
